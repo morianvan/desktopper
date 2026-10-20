@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+test-output/
+
+user-settings.json
+user-settings.tmp
+.tools/
+.env
+.env.*
+!.env.example
+*.log

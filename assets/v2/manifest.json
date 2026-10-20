@@ -1,0 +1,1293 @@
+{
+  "version": 2,
+  "canvas": [
+    512,
+    512
+  ],
+  "anchor": [
+    256,
+    464
+  ],
+  "processing": "crop, uniform per-sheet nearest-neighbor scale, anchor placement only",
+  "sheets": {
+    "idle": {
+      "source_sha256": "62f2ab5a39d4d2c5f7e28232808d6dd4bf0fa4802e4e19eb451b672d1fc1b896",
+      "source_size": [
+        1448,
+        1086
+      ],
+      "frames": 12,
+      "scale": 1.1,
+      "frame_details": [
+        {
+          "index": 0,
+          "rect": [
+            0,
+            0,
+            362,
+            374
+          ],
+          "source_anchor": [
+            202,
+            369
+          ],
+          "destination": [
+            34,
+            58
+          ]
+        },
+        {
+          "index": 1,
+          "rect": [
+            362,
+            0,
+            369,
+            374
+          ],
+          "source_anchor": [
+            548,
+            369
+          ],
+          "destination": [
+            51,
+            58
+          ]
+        },
+        {
+          "index": 2,
+          "rect": [
+            731,
+            0,
+            359,
+            374
+          ],
+          "source_anchor": [
+            914,
+            369
+          ],
+          "destination": [
+            55,
+            58
+          ]
+        },
+        {
+          "index": 3,
+          "rect": [
+            1090,
+            0,
+            358,
+            374
+          ],
+          "source_anchor": [
+            1266,
+            369
+          ],
+          "destination": [
+            62,
+            58
+          ]
+        },
+        {
+          "index": 4,
+          "rect": [
+            0,
+            374,
+            362,
+            356
+          ],
+          "source_anchor": [
+            202,
+            726
+          ],
+          "destination": [
+            34,
+            77
+          ]
+        },
+        {
+          "index": 5,
+          "rect": [
+            362,
+            374,
+            369,
+            356
+          ],
+          "source_anchor": [
+            548,
+            726
+          ],
+          "destination": [
+            51,
+            77
+          ]
+        },
+        {
+          "index": 6,
+          "rect": [
+            731,
+            374,
+            359,
+            356
+          ],
+          "source_anchor": [
+            914,
+            726
+          ],
+          "destination": [
+            55,
+            77
+          ]
+        },
+        {
+          "index": 7,
+          "rect": [
+            1090,
+            374,
+            358,
+            356
+          ],
+          "source_anchor": [
+            1266,
+            726
+          ],
+          "destination": [
+            62,
+            77
+          ]
+        },
+        {
+          "index": 8,
+          "rect": [
+            0,
+            730,
+            362,
+            356
+          ],
+          "source_anchor": [
+            202,
+            1071
+          ],
+          "destination": [
+            34,
+            89
+          ]
+        },
+        {
+          "index": 9,
+          "rect": [
+            362,
+            730,
+            369,
+            356
+          ],
+          "source_anchor": [
+            548,
+            1071
+          ],
+          "destination": [
+            51,
+            89
+          ]
+        },
+        {
+          "index": 10,
+          "rect": [
+            731,
+            730,
+            359,
+            356
+          ],
+          "source_anchor": [
+            914,
+            1071
+          ],
+          "destination": [
+            55,
+            89
+          ]
+        },
+        {
+          "index": 11,
+          "rect": [
+            1090,
+            730,
+            358,
+            356
+          ],
+          "source_anchor": [
+            1266,
+            1071
+          ],
+          "destination": [
+            62,
+            89
+          ]
+        }
+      ]
+    },
+    "walk": {
+      "source_sha256": "ea9940541f17dacec65959687dbf3529a1127d4a3d8342f2e84466bc8e470c67",
+      "source_size": [
+        1448,
+        1086
+      ],
+      "frames": 12,
+      "scale": 1.15,
+      "frame_details": [
+        {
+          "index": 0,
+          "rect": [
+            0,
+            0,
+            362,
+            383
+          ],
+          "source_anchor": [
+            213,
+            372
+          ],
+          "destination": [
+            11,
+            36
+          ]
+        },
+        {
+          "index": 1,
+          "rect": [
+            362,
+            0,
+            369,
+            383
+          ],
+          "source_anchor": [
+            568,
+            372
+          ],
+          "destination": [
+            19,
+            36
+          ]
+        },
+        {
+          "index": 2,
+          "rect": [
+            731,
+            0,
+            359,
+            383
+          ],
+          "source_anchor": [
+            923,
+            372
+          ],
+          "destination": [
+            35,
+            36
+          ]
+        },
+        {
+          "index": 3,
+          "rect": [
+            1090,
+            0,
+            358,
+            383
+          ],
+          "source_anchor": [
+            1281,
+            372
+          ],
+          "destination": [
+            36,
+            36
+          ]
+        },
+        {
+          "index": 4,
+          "rect": [
+            0,
+            383,
+            362,
+            347
+          ],
+          "source_anchor": [
+            213,
+            724
+          ],
+          "destination": [
+            11,
+            72
+          ]
+        },
+        {
+          "index": 5,
+          "rect": [
+            362,
+            383,
+            369,
+            347
+          ],
+          "source_anchor": [
+            568,
+            724
+          ],
+          "destination": [
+            19,
+            72
+          ]
+        },
+        {
+          "index": 6,
+          "rect": [
+            731,
+            383,
+            359,
+            347
+          ],
+          "source_anchor": [
+            923,
+            724
+          ],
+          "destination": [
+            35,
+            72
+          ]
+        },
+        {
+          "index": 7,
+          "rect": [
+            1090,
+            383,
+            358,
+            347
+          ],
+          "source_anchor": [
+            1281,
+            724
+          ],
+          "destination": [
+            36,
+            72
+          ]
+        },
+        {
+          "index": 8,
+          "rect": [
+            0,
+            730,
+            362,
+            356
+          ],
+          "source_anchor": [
+            213,
+            1066
+          ],
+          "destination": [
+            11,
+            78
+          ]
+        },
+        {
+          "index": 9,
+          "rect": [
+            362,
+            730,
+            369,
+            356
+          ],
+          "source_anchor": [
+            568,
+            1066
+          ],
+          "destination": [
+            19,
+            78
+          ]
+        },
+        {
+          "index": 10,
+          "rect": [
+            731,
+            730,
+            359,
+            356
+          ],
+          "source_anchor": [
+            923,
+            1066
+          ],
+          "destination": [
+            35,
+            78
+          ]
+        },
+        {
+          "index": 11,
+          "rect": [
+            1090,
+            730,
+            358,
+            356
+          ],
+          "source_anchor": [
+            1281,
+            1066
+          ],
+          "destination": [
+            36,
+            78
+          ]
+        }
+      ]
+    },
+    "run": {
+      "source_sha256": "94f9b89de756a56362db4cd835360f5853355cf2601d3b41bfa5476573a14578",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "frames": 16,
+      "scale": 1.2,
+      "frame_details": [
+        {
+          "index": 0,
+          "rect": [
+            0,
+            0,
+            320,
+            365
+          ],
+          "source_anchor": [
+            190,
+            350
+          ],
+          "destination": [
+            28,
+            44
+          ]
+        },
+        {
+          "index": 1,
+          "rect": [
+            320,
+            0,
+            320,
+            365
+          ],
+          "source_anchor": [
+            511,
+            350
+          ],
+          "destination": [
+            27,
+            44
+          ]
+        },
+        {
+          "index": 2,
+          "rect": [
+            640,
+            0,
+            279,
+            365
+          ],
+          "source_anchor": [
+            817,
+            350
+          ],
+          "destination": [
+            44,
+            44
+          ]
+        },
+        {
+          "index": 3,
+          "rect": [
+            919,
+            0,
+            335,
+            365
+          ],
+          "source_anchor": [
+            1130,
+            350
+          ],
+          "destination": [
+            3,
+            44
+          ]
+        },
+        {
+          "index": 4,
+          "rect": [
+            0,
+            365,
+            328,
+            288
+          ],
+          "source_anchor": [
+            190,
+            640
+          ],
+          "destination": [
+            28,
+            134
+          ]
+        },
+        {
+          "index": 5,
+          "rect": [
+            328,
+            365,
+            325,
+            288
+          ],
+          "source_anchor": [
+            511,
+            640
+          ],
+          "destination": [
+            36,
+            134
+          ]
+        },
+        {
+          "index": 6,
+          "rect": [
+            653,
+            365,
+            320,
+            288
+          ],
+          "source_anchor": [
+            817,
+            640
+          ],
+          "destination": [
+            59,
+            134
+          ]
+        },
+        {
+          "index": 7,
+          "rect": [
+            973,
+            365,
+            281,
+            288
+          ],
+          "source_anchor": [
+            1130,
+            640
+          ],
+          "destination": [
+            68,
+            134
+          ]
+        },
+        {
+          "index": 8,
+          "rect": [
+            0,
+            653,
+            328,
+            291
+          ],
+          "source_anchor": [
+            190,
+            928
+          ],
+          "destination": [
+            28,
+            134
+          ]
+        },
+        {
+          "index": 9,
+          "rect": [
+            328,
+            653,
+            325,
+            291
+          ],
+          "source_anchor": [
+            511,
+            928
+          ],
+          "destination": [
+            36,
+            134
+          ]
+        },
+        {
+          "index": 10,
+          "rect": [
+            653,
+            653,
+            320,
+            291
+          ],
+          "source_anchor": [
+            817,
+            928
+          ],
+          "destination": [
+            59,
+            134
+          ]
+        },
+        {
+          "index": 11,
+          "rect": [
+            973,
+            653,
+            281,
+            291
+          ],
+          "source_anchor": [
+            1130,
+            928
+          ],
+          "destination": [
+            68,
+            134
+          ]
+        },
+        {
+          "index": 12,
+          "rect": [
+            0,
+            944,
+            328,
+            310
+          ],
+          "source_anchor": [
+            190,
+            1216
+          ],
+          "destination": [
+            28,
+            138
+          ]
+        },
+        {
+          "index": 13,
+          "rect": [
+            328,
+            944,
+            325,
+            310
+          ],
+          "source_anchor": [
+            511,
+            1216
+          ],
+          "destination": [
+            36,
+            138
+          ]
+        },
+        {
+          "index": 14,
+          "rect": [
+            653,
+            944,
+            320,
+            310
+          ],
+          "source_anchor": [
+            817,
+            1216
+          ],
+          "destination": [
+            59,
+            138
+          ]
+        },
+        {
+          "index": 15,
+          "rect": [
+            973,
+            944,
+            281,
+            310
+          ],
+          "source_anchor": [
+            1130,
+            1216
+          ],
+          "destination": [
+            68,
+            138
+          ]
+        }
+      ]
+    },
+    "knife": {
+      "source_sha256": "692605a2a7aa37b0bc9ac95026babb284f121ad67e86ea32be45448799e1ec7f",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "frames": 16,
+      "scale": 1.25,
+      "frame_details": [
+        {
+          "index": 0,
+          "rect": [
+            0,
+            0,
+            340,
+            333
+          ],
+          "source_anchor": [
+            171,
+            326
+          ],
+          "destination": [
+            42,
+            56
+          ]
+        },
+        {
+          "index": 1,
+          "rect": [
+            340,
+            0,
+            311,
+            333
+          ],
+          "source_anchor": [
+            482,
+            326
+          ],
+          "destination": [
+            78,
+            56
+          ]
+        },
+        {
+          "index": 2,
+          "rect": [
+            651,
+            0,
+            304,
+            333
+          ],
+          "source_anchor": [
+            800,
+            326
+          ],
+          "destination": [
+            70,
+            56
+          ]
+        },
+        {
+          "index": 3,
+          "rect": [
+            955,
+            0,
+            299,
+            333
+          ],
+          "source_anchor": [
+            1104,
+            326
+          ],
+          "destination": [
+            70,
+            56
+          ]
+        },
+        {
+          "index": 4,
+          "rect": [
+            0,
+            333,
+            340,
+            309
+          ],
+          "source_anchor": [
+            171,
+            632
+          ],
+          "destination": [
+            42,
+            90
+          ]
+        },
+        {
+          "index": 5,
+          "rect": [
+            340,
+            333,
+            311,
+            309
+          ],
+          "source_anchor": [
+            482,
+            632
+          ],
+          "destination": [
+            78,
+            90
+          ]
+        },
+        {
+          "index": 6,
+          "rect": [
+            651,
+            333,
+            304,
+            309
+          ],
+          "source_anchor": [
+            800,
+            632
+          ],
+          "destination": [
+            70,
+            90
+          ]
+        },
+        {
+          "index": 7,
+          "rect": [
+            955,
+            333,
+            299,
+            309
+          ],
+          "source_anchor": [
+            1104,
+            632
+          ],
+          "destination": [
+            70,
+            90
+          ]
+        },
+        {
+          "index": 8,
+          "rect": [
+            0,
+            642,
+            340,
+            321
+          ],
+          "source_anchor": [
+            171,
+            956
+          ],
+          "destination": [
+            42,
+            72
+          ]
+        },
+        {
+          "index": 9,
+          "rect": [
+            340,
+            642,
+            311,
+            321
+          ],
+          "source_anchor": [
+            482,
+            956
+          ],
+          "destination": [
+            78,
+            72
+          ]
+        },
+        {
+          "index": 10,
+          "rect": [
+            651,
+            642,
+            304,
+            321
+          ],
+          "source_anchor": [
+            800,
+            956
+          ],
+          "destination": [
+            70,
+            72
+          ]
+        },
+        {
+          "index": 11,
+          "rect": [
+            955,
+            642,
+            299,
+            321
+          ],
+          "source_anchor": [
+            1104,
+            956
+          ],
+          "destination": [
+            70,
+            72
+          ]
+        },
+        {
+          "index": 12,
+          "rect": [
+            0,
+            963,
+            340,
+            291
+          ],
+          "source_anchor": [
+            171,
+            1240
+          ],
+          "destination": [
+            42,
+            118
+          ]
+        },
+        {
+          "index": 13,
+          "rect": [
+            340,
+            963,
+            311,
+            291
+          ],
+          "source_anchor": [
+            482,
+            1240
+          ],
+          "destination": [
+            78,
+            118
+          ]
+        },
+        {
+          "index": 14,
+          "rect": [
+            651,
+            963,
+            304,
+            291
+          ],
+          "source_anchor": [
+            800,
+            1240
+          ],
+          "destination": [
+            70,
+            118
+          ]
+        },
+        {
+          "index": 15,
+          "rect": [
+            955,
+            963,
+            299,
+            291
+          ],
+          "source_anchor": [
+            1104,
+            1240
+          ],
+          "destination": [
+            70,
+            118
+          ]
+        }
+      ]
+    },
+    "jumppad": {
+      "source_sha256": "cc07bd1c45a7b2372e4975a35ab7351402d34d70189a0bebef7a5a31f3e208cc",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "frames": 16,
+      "scale": 1.35,
+      "frame_details": [
+        {
+          "index": 0,
+          "rect": [
+            30,
+            0,
+            340,
+            324
+          ],
+          "source_anchor": [
+            188,
+            318
+          ],
+          "destination": [
+            43,
+            35
+          ]
+        },
+        {
+          "index": 1,
+          "rect": [
+            370,
+            0,
+            293,
+            324
+          ],
+          "source_anchor": [
+            550,
+            318
+          ],
+          "destination": [
+            13,
+            35
+          ]
+        },
+        {
+          "index": 2,
+          "rect": [
+            663,
+            0,
+            294,
+            324
+          ],
+          "source_anchor": [
+            796,
+            318
+          ],
+          "destination": [
+            76,
+            35
+          ]
+        },
+        {
+          "index": 3,
+          "rect": [
+            957,
+            0,
+            297,
+            324
+          ],
+          "source_anchor": [
+            1089,
+            318
+          ],
+          "destination": [
+            78,
+            35
+          ]
+        },
+        {
+          "index": 4,
+          "rect": [
+            30,
+            324,
+            310,
+            324
+          ],
+          "source_anchor": [
+            185,
+            638
+          ],
+          "destination": [
+            47,
+            40
+          ]
+        },
+        {
+          "index": 5,
+          "rect": [
+            340,
+            324,
+            323,
+            324
+          ],
+          "source_anchor": [
+            509,
+            638
+          ],
+          "destination": [
+            28,
+            40
+          ]
+        },
+        {
+          "index": 6,
+          "rect": [
+            663,
+            324,
+            294,
+            324
+          ],
+          "source_anchor": [
+            813,
+            638
+          ],
+          "destination": [
+            54,
+            40
+          ]
+        },
+        {
+          "index": 7,
+          "rect": [
+            957,
+            324,
+            297,
+            324
+          ],
+          "source_anchor": [
+            1094,
+            638
+          ],
+          "destination": [
+            71,
+            40
+          ]
+        },
+        {
+          "index": 8,
+          "rect": [
+            30,
+            648,
+            310,
+            302
+          ],
+          "source_anchor": [
+            195,
+            943
+          ],
+          "destination": [
+            33,
+            66
+          ]
+        },
+        {
+          "index": 9,
+          "rect": [
+            340,
+            648,
+            323,
+            302
+          ],
+          "source_anchor": [
+            512,
+            943
+          ],
+          "destination": [
+            24,
+            66
+          ]
+        },
+        {
+          "index": 10,
+          "rect": [
+            663,
+            648,
+            294,
+            302
+          ],
+          "source_anchor": [
+            805,
+            943
+          ],
+          "destination": [
+            64,
+            66
+          ]
+        },
+        {
+          "index": 11,
+          "rect": [
+            957,
+            648,
+            297,
+            302
+          ],
+          "source_anchor": [
+            1095,
+            943
+          ],
+          "destination": [
+            70,
+            66
+          ]
+        },
+        {
+          "index": 12,
+          "rect": [
+            30,
+            950,
+            310,
+            304
+          ],
+          "source_anchor": [
+            190,
+            1232
+          ],
+          "destination": [
+            40,
+            83
+          ]
+        },
+        {
+          "index": 13,
+          "rect": [
+            340,
+            950,
+            323,
+            304
+          ],
+          "source_anchor": [
+            508,
+            1232
+          ],
+          "destination": [
+            29,
+            83
+          ]
+        },
+        {
+          "index": 14,
+          "rect": [
+            663,
+            950,
+            294,
+            304
+          ],
+          "source_anchor": [
+            800,
+            1232
+          ],
+          "destination": [
+            71,
+            83
+          ]
+        },
+        {
+          "index": 15,
+          "rect": [
+            957,
+            950,
+            297,
+            304
+          ],
+          "source_anchor": [
+            1100,
+            1232
+          ],
+          "destination": [
+            63,
+            83
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "version": "2.1",
+  "name": "Octane · 蜘蛛热",
+  "display_height": 280,
+  "pixelated": true,
+  "facing": "right",
+  "movement": {
+    "walk_speed": 75,
+    "run_speed": 300,
+    "duration_seconds": [
+      3,
+      7
+    ],
+    "action_weights": {
+      "idle": 3,
+      "walk": 4,
+      "run": 2,
+      "knife": 1,
+      "jumppad": 1
+    },
+    "acceleration": 900
+  },
+  "sheets": {
+    "idle": {
+      "file": "v2/idle.png",
+      "columns": 4,
+      "rows": 3
+    },
+    "walk": {
+      "file": "v2/walk.png",
+      "columns": 4,
+      "rows": 3
+    },
+    "run": {
+      "file": "v2/run.png",
+      "columns": 4,
+      "rows": 4
+    },
+    "knife": {
+      "file": "v2/knife.png",
+      "columns": 4,
+      "rows": 4
+    },
+    "jumppad": {
+      "file": "v2/jumppad.png",
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "clips": {
+    "idle": {
+      "sheet": "idle",
+      "frames": [
+        0,
+        1,
+        2,
+        1,
+        0,
+        4,
+        5,
+        4,
+        0,
+        8,
+        9,
+        10,
+        11,
+        0
+      ],
+      "fps": 8,
+      "durations_ms": [
+        700,
+        130,
+        120,
+        130,
+        400,
+        160,
+        300,
+        160,
+        400,
+        180,
+        140,
+        140,
+        200,
+        500
+      ],
+      "exit_frames": [
+        0,
+        4,
+        8,
+        13
+      ]
+    },
+    "walk": {
+      "sheet": "walk",
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        6,
+        5,
+        4,
+        2
+      ],
+      "fps": 14,
+      "durations_ms": [
+        85,
+        70,
+        70,
+        85,
+        70,
+        70,
+        85,
+        70,
+        70,
+        85,
+        70,
+        70
+      ],
+      "exit_frames": [
+        0,
+        3,
+        6,
+        9,
+        11
+      ]
+    },
+    "stim": {
+      "sheet": "run",
+      "frames": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "fps": 6,
+      "next": "run",
+      "durations_ms": [
+        160,
+        240,
+        280,
+        120
+      ],
+      "exit_frames": []
+    },
+    "run": {
+      "sheet": "run",
+      "frames": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        10,
+        9,
+        8,
+        7
+      ],
+      "fps": 20,
+      "durations_ms": [
+        100,
+        65,
+        60,
+        65,
+        65,
+        60,
+        65,
+        65,
+        65,
+        60,
+        65,
+        65
+      ],
+      "exit_frames": [
+        3,
+        5,
+        9,
+        11
+      ],
+      "loop_start": 1
+    },
+    "knife": {
+      "sheet": "knife",
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        4,
+        5,
+        7,
+        4,
+        7,
+        11,
+        13,
+        14,
+        15
+      ],
+      "fps": 9,
+      "next": "idle",
+      "durations_ms": [
+        260,
+        150,
+        130,
+        110,
+        70,
+        70,
+        70,
+        70,
+        90,
+        70,
+        100,
+        160,
+        130,
+        150,
+        300
+      ],
+      "exit_frames": []
+    },
+    "jumppad": {
+      "sheet": "jumppad",
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        14,
+        2,
+        1,
+        0
+      ],
+      "fps": 8,
+      "next": "idle",
+      "durations_ms": [
+        250,
+        230,
+        180,
+        160,
+        110,
+        100,
+        110,
+        200,
+        110,
+        110,
+        110,
+        200,
+        110,
+        130,
+        160,
+        350,
+        140,
+        180,
+        230,
+        250
+      ],
+      "exit_frames": []
+    }
+  }
+}
