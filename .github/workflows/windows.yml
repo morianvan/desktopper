@@ -20,7 +20,7 @@ jobs:
           python-version: '3.12'
       - name: Install
         shell: pwsh
-        run: ./setup.ps1
+        run: ./setup.ps1 -PythonExecutable (Get-Command python).Source
       - name: Tests
         shell: pwsh
         env:

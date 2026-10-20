@@ -50,7 +50,7 @@
 
 ## 开发和验证
 
-Windows 10/11、64 位 Python 3.10+（本地打包验证为 Python 3.12）。
+Windows 10/11、64 位 Python 3.10～3.13，推荐 Python 3.12（本地打包验证版本）。同时安装多个 Python 时，可用 `setup.ps1 -PythonExecutable "Python 3.12 的 python.exe 完整路径"` 指定解释器。
 
 ```powershell
 # 首次安装依赖
